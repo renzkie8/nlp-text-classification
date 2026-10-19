@@ -7,3 +7,5 @@
 - `README.md`
 - `RESULTS.md`
 - `VALIDATION.md`
+- `results/README.md`
+- `results/figure-01.png`
